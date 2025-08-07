@@ -7,6 +7,10 @@ An interactive Java-based educational application designed to help children lear
 
 
 
+
+
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![Education](https://img.shields.io/badge/Education-Kids-brightgreen?style=for-the-badge)
